@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BOBA\\.nuget\\packages\\": {}
+    "C:\\Users\\Artem4ik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GeekBrains\\Sem_5\\Seminar_5\\Homework\\Task_1\\Task_1.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\C#\\Seminar_5\\Homework\\Task_1\\Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "G:\\GeekBrains\\Sem_5\\Seminar_5\\Homework\\Task_1\\Task_1.csproj",
-      "packagesPath": "C:\\Users\\BOBA\\.nuget\\packages\\",
-      "outputPath": "G:\\GeekBrains\\Sem_5\\Seminar_5\\Homework\\Task_1\\obj\\",
+      "projectPath": "D:\\GeekBrains\\C#\\Seminar_5\\Homework\\Task_1\\Task_1.csproj",
+      "packagesPath": "C:\\Users\\Artem4ik\\.nuget\\packages\\",
+      "outputPath": "D:\\GeekBrains\\C#\\Seminar_5\\Homework\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BOBA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Artem4ik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,7 +12,7 @@ void FA(int[] arr)
 }
 int chet (int [] arr1){
     int c=0;
-    for (int i=1;i<arr1.Length;i++){
+    for (int i=0;i<arr1.Length;i++){
         if (arr1[i]%2==0){
             c++;
         }
